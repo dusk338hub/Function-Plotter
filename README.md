@@ -6,9 +6,9 @@ A GUI application that plots any given function.
 Built with:
 
  - [Python](https://www.python.org/)
- - [PyQt5]((https://pypi.org/project/PyQt5/))
- - [matplotlib]((https://matplotlib.org/))
- - [unittest]((https://docs.python.org/3/library/unittest.html))
+ - [PyQt5](https://pypi.org/project/PyQt5/)
+ - [matplotlib](https://matplotlib.org/)
+ - [unittest](https://docs.python.org/3/library/unittest.html)
 
 # Screenshots
 ![Program interface](https://i.ibb.co/zFxznV8/Image-001.png)
